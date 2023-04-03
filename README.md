@@ -27,11 +27,11 @@ Note -
 1. Please make sure you have installed the prerequisites as per - docs/selenium-installation.md
 2. This test incorporates unittest framework, please use the following resources to learn about the same.
     Useful links
-    - [1](https://www.techbeamers.com/selenium-python-test-suite-unittest/#h1)
-    - [2](https://www.youtube.com/watch?v=9_5Wqgni_Xw)
+    - [techbeamers.com/selenium-python-test-suite-unittest](https://www.techbeamers.com/selenium-python-test-suite-unittest/#h1)
+    - [youtube](https://www.youtube.com/watch?v=9_5Wqgni_Xw)
     Official docs
-    - [3](https://www.selenium.dev/selenium/docs/api/py/index.html)
-    - [4](https://selenium-python.readthedocs.io/installation.html)
+    - [selenium/docs](https://www.selenium.dev/selenium/docs/api/py/index.html)
+    - [selenium-python.readthedocs.io](https://selenium-python.readthedocs.io/installation.html)
 
 # Execution instructions
 1. To run the test, make sure you have used ```bash Start-All-DevEnv.bash```
