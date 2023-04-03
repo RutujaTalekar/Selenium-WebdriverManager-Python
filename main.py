@@ -81,9 +81,10 @@ class GLYCAM_cb_testSuit(unittest.TestCase):
 
 		else:
 			print("Enter a valid browser")
-		self.readIp()
+		#self.readIp()
 		self.driver.maximize_window()
-		self.ip = '''http://'''+self.ip + '''/txt/'''
+		#self.ip = '''http://'''+self.ip + '''/txt/'''
+		self.ip = '''https://glycam.org/'''
 		self.driver.get(self.ip)
 		print("\n")
 
