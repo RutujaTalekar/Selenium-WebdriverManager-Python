@@ -1,0 +1,1 @@
+Please do not delete this folder, as it is used in selenium test
