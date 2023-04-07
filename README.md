@@ -1,4 +1,4 @@
-# selenium-webdriver-manager-python
+# Selenium-WebdriverManager-Python
 Selenium scripts implementing unittest framework with webdriver manager class in Python for https://glycam.org/ for cross broswer testing - chrome and firefox. 
 
 # About Selenium - Web driver
